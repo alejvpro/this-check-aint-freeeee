@@ -1,0 +1,19 @@
+{
+  "name": "this-check-aint-freeeee",
+  "version": "1.0.0",
+  "description": "bill-splitter",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejvpro/this-check-aint-freeeee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejvpro/this-check-aint-freeeee/issues"
+  },
+  "homepage": "https://github.com/alejvpro/this-check-aint-freeeee#readme"
+}
